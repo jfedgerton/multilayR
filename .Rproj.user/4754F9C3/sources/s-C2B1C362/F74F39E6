@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591108710126.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F74F39E6",
+    "lastKnownWriteTime" : 1591108770,
+    "last_content_update" : 1591108770973,
+    "path" : "C:/Users/jared/Dropbox/multiplex_sandbox/multilayR/R/boot_community.r",
+    "project_path" : "R/boot_community.r",
+    "properties" : {
+        "cursorPosition" : "283,0",
+        "scrollLine" : "263"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
